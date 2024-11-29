@@ -1,5 +1,8 @@
 package dni.ex;
 
+import dni.ex.DniModel;
+import dni.ex.DniView;
+
 public class DniController {
     public DniController(){
         startProgram();
