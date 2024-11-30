@@ -1,9 +1,11 @@
-package dni.ex;
+package dni.ex.controller;
 
-import dni.ex.DniModel;
-import dni.ex.DniView;
+import dni.ex.models.DniLetterModel;
+import dni.ex.models.DniModel;
+import dni.ex.view.DniView;
 
 public class DniController {
+
     public DniController(){
         startProgram();
     }
@@ -20,5 +22,5 @@ public class DniController {
         DniView.showsLetterDni(letter, dniNumber);
         
     }
-    
+
 }

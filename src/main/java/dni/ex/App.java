@@ -1,5 +1,8 @@
 package dni.ex;
 
+import dni.ex.controller.DniController;
+
+
 public final class App {
     private App() {
     }
@@ -12,4 +15,6 @@ public final class App {
         
         new DniController();
     }
-}
+    
+    }
+

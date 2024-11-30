@@ -1,4 +1,4 @@
-package dni.ex;
+package dni.ex.models;
 
 public class DniLetterModel {
     private static final char[] LETTERS = {
