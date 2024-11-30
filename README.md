@@ -9,3 +9,14 @@ Depending on the result, from 0 to 22, you will be assigned one of the following
 If the data entered is not a number, it must be indicated with a message that "the data entered is incorrect" and ask again.
 The process must be repeated until the user enters a valid number.
 
+<img src="src/main/java/dni/ex/image/dni.bmp" title="model" alt="model"/>
+
+## Installation
+
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/Snysic/Kata---DNI.git
+
+## Unit test to verify functionality across different system components.
+
+<img src="src/main/java/dni/ex/image/cover.bmp" title="coverage" alt="coverage"/>
